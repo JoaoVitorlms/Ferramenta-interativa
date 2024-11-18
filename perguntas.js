@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Historia',
+    'Quando aconteceu a guerra fria?',
+    'durou de 1947 a 1991'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'educação financeira',
+    'O que é CDI?',
+    'O CDI é uma taxa usada como referência em diversas operações financeiras no Brasil'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'projeto de vida',
+    'O que é empatia?',
+    'Se colocar no lugar do outro, sentir o que outra pessoa sentiria, caso estivesse na situação vivenciada por ela'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'filosofia',
+    'Quem foi Gilberto Freyre?',
+    'Gilberto Freyre foi um escritor e sociólogo brasileiro dedicado a analisar as relações sociais do Brasil colonial e o reflexo disso na formação da identidade brasileira'
 )
